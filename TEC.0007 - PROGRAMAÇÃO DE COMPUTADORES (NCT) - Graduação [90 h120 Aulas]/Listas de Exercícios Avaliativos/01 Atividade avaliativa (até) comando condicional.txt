@@ -1,0 +1,19 @@
+Desenvolva os programas solicitados nas questões respeitando as seguintes regras:
+
+a) use a linguagem de programação Python (versão 3.X);
+
+b) não   empregue   conhecimentos   ainda   não   apresentados,   tais   como repetição,   listas,  comprehensions,   funções,   operações   complexas   sobre strings, entre outros;
+
+c) não empregue bibliotecas ou funções prontas do Python, exceto quando o enunciado da questão definir essa possibilidade;
+
+d) Comente o código;
+
+e) desenvolva a atividade com até mais um colega; apenas um dos membros da  dupla entrega a atividade; se mais de um entregar apenas o primeiro será considerado na avaliação;
+
+f) responda   a esse questionário  com  o nome do usuário do github que postou a resposta no www.github.com;
+
+g) Dentro   do   repositório   deverá   ter   uma   pasta   com   o   nome  AvaliativaComandoCondicional com os programas que respondem às  questões; Nessa mesma pasta deve ter um arquivo com o nome "alunos.txt" em que constam os nomes dos alunos do grupo que respondeu às questões;
+
+h) Os nomes dos programas devem ser necessariamente:  q1.py,  q2.py  e  assim sucessivamente;
+
+i) A correção será realizada com o último commit anterior à data de entrega.  Também pode ser objeto de avaliação a frequência em que cada membro do grupo fez commits;

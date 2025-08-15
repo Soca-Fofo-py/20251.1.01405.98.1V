@@ -1,0 +1,10 @@
+https://www.r-5.org/files/books/computers/internals/net/Richard_Stevens-TCP-IP_Illustrated-EN.pdf
+
+
+Halley e seus cometas
+
+navalha de occam
+
+https://stackoverflow.com/questions/8369219/how-can-i-read-a-text-file-into-a-string-variable-and-strip-newlines
+
+https://stackoverflow.com/questions/74763554/how-to-use-subprocess-run-method-in-python
